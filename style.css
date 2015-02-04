@@ -1,0 +1,26 @@
+#container{
+  width: 480px;
+  margin: 30px auto;
+  background: #FFFFFF;
+}
+
+.block {
+  width: 30px;
+  height: 30px;
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+  float: left;
+  background: grey;
+  display: block;
+}
+
+h3 {
+  display: block;
+  margin: 30 px auto;
+}
+
+#button {
+  width: 100px;
+  margin: 30px auto;
+}
